@@ -59,8 +59,6 @@ Calculated the duration of each qualification by comparing qualification start a
 Example:
 Qualification Duration =DATEDIFF(Start Date, End Date, YEAR)
 
----
-
 ### Eligibility Category Classification
 
 A rule-based classification model was developed to categorize qualifications based on academic level, duration, and institution.

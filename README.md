@@ -1,4 +1,4 @@
-# Master-s-Eligibility-Analytics-Dashboard
+# Masters Eligibility Analytics Dashboard
 Developed an interactive Power BI dashboard to streamline candidate eligibility assessment for a Master's degree admissions process. Performed extensive data cleaning, transformation, and modeling using Power Query and DAX, including eligibility classification, post-qualifying experience calculation, and qualification categorization. Designed interactive dashboards with slicers, maps, treemaps, funnel charts, and drill-down visualizations to provide actionable insights into applicant qualifications, experience, geographic distribution, and admission eligibility.
 
 ## Data Cleaning, Transformation & Data Modeling

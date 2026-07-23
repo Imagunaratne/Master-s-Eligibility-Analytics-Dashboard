@@ -1,7 +1,7 @@
 # Masters Eligibility Analytics Dashboard
 
 ## Problem
-Assessing candidate eligibility for postgraduate program admissions is a manual, error-prone process when done from raw applicant data. This project builds an interactive Power BI dashboard — "UoM Master's Eligibility Summary" — that automates eligibility assessment for the Master of Business Analytics program from a raw candidate CSV dataset (academic qualifications, professional experience, and pay verification).
+Assessing candidate eligibility for postgraduate program admissions is a manual, error-prone process when done from raw applicant data. This project builds an interactive Power BI dashboard **"UoM Master's Eligibility Summary" ** that automates eligibility assessment for the Master of Business Analytics program from a raw candidate CSV dataset (academic qualifications, professional experience, and pay verification).
 
 ## Approach
 - **Data cleaning & wrangling:** Parsed and split nested academic and experience fields (institute, degree, dates, class; company, position, dates) from a single semi-structured column into clean, structured columns
@@ -19,7 +19,7 @@ Assessing candidate eligibility for postgraduate program admissions is a manual,
 Power BI (Power Query, DAX), data cleaning & wrangling
 
 ## Outcome
-An interactive dashboard that turns a raw, semi-structured applicant dataset into an automated eligibility assessment tool — replacing manual review with a rule-based classification system stakeholders can filter and explore directly.
+An interactive dashboard that turns a raw, semi-structured applicant dataset into an automated eligibility assessment tool.Which replaces the manual review with a rule-based classification system stakeholders can filter and explore directly.
 
 ## Artifacts
 

@@ -24,5 +24,5 @@ An interactive dashboard that turns a raw, semi-structured applicant dataset int
 ## Artifacts
 
 ### Dashboard Overview
-![Dashboard Overview](Dashboard SS 1.png)(Dashboard SS 3.png)
+![Dashboard Overview](https://github.com/Imagunaratne/Master-s-Eligibility-Analytics-Dashboard/blob/35c8583d80935d21a3e8ceebe3850e64b77fb15a/Dashboard%20SS%201.png)
 

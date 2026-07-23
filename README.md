@@ -25,4 +25,5 @@ An interactive dashboard that turns a raw, semi-structured applicant dataset int
 
 ### Dashboard Overview
 ![Dashboard Overview](https://github.com/Imagunaratne/Master-s-Eligibility-Analytics-Dashboard/blob/35c8583d80935d21a3e8ceebe3850e64b77fb15a/Dashboard%20SS%201.png)
-
+![Dashboard Overview](https://github.com/Imagunaratne/Master-s-Eligibility-Analytics-Dashboard/blob/df3092d36e561dcfc63ea526837ece9e26348d66/Dashboard%20SS%202.png)
+![Dashboard Overview](https://github.com/Imagunaratne/Master-s-Eligibility-Analytics-Dashboard/blob/df3092d36e561dcfc63ea526837ece9e26348d66/Dashboard%20SS%203.png)
